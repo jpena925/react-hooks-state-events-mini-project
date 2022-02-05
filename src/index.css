@@ -51,7 +51,7 @@ h5 {
 }
 
 .categories button.selected {
-  background: pink;
+  background: rgb(38, 206, 114);
 }
 
 .categories button:hover {
@@ -193,3 +193,4 @@ button.toggle:focus {
     transform: scale(20);
   }
 }
+
